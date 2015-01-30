@@ -6,3 +6,7 @@ font-family: sans-serif;
 h1{
   font-family: 'Signika', sans-serif;
 }
+
+#title{
+  color:rbga(47,79,79,0.8);
+}
